@@ -1,12 +1,12 @@
 # CSE0001-Digital-Literacy
 A digital literacy project covering online presence, email etiquette, coding platforms &amp; cybercrime awareness. Submitted for CSE0001 at VIT Bhopal University
-# 🎓 Digital Literacy Portfolio — CSE0001
+ #🎓 Digital Literacy Portfolio — CSE0001
 
 | Field | Details |
 |---|---|
 | **Name** | Aryan Sharma |
 | **Registration No.** | 25BOE10059 |
-| **Branch** | B.Tech – Computer Science & Engineering (CSE) |
+| **Branch** | B.Tech – BIO-Engineering (BOE) |
 | **Year** | First Year |
 | **Course** | CSE0001 – Digital Literacy |
 | **Institution** | VIT Bhopal University |
@@ -61,14 +61,16 @@ Researched **Cyberbullying** as a major online threat affecting college students
 
 ## 🔗 Useful Links
 
-- [Canva](https://canva.com) — Infographic Tool (Task 1)
+- [Canva] [https://canva.co](https://www.canva.com/design/DAHFW_kLSd0?ui=eyJLIjp7IkEiOiJiZDFjZGZhMy1mN2Q1LTQwZjMtODIyMy1jYjY0NDBiOThjNTgifX0) — Infographic Tool (Task 1)
 - [GitHub](https://github.com) — Code Portfolio (Task 2)
-- [LinkedIn](https://linkedin.com) — Professional Network (Task 2)
-- [Kaggle](https://kaggle.com) — Data Science Platform (Task 2)
-- [HackerRank](https://hackerrank.com) — Coding Practice (Task 3)
-- [Google Forms](https://forms.google.com) — Quiz Builder (Task 3)
+- [LinkedIn](https://www.linkedin.com/in/aryan-sharma-ab0b38358) — Professional Network (Task 2)
+- [Kaggle](https://www.kaggle.com/skulldevil1) — Data Science Platform (Task 2)
+- [HackerRank](https://www.hackerrank.com/profile/skulldevil199) https://hackerrank.com) — Coding Practice (Task 3)
+- [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSf5InuLCkQrcUOR2tvVhpZEJewDYFyddj4Ex7NeKpYMUi-8qQ/viewform?usp=publish-editor) — Quiz Builder (Task 3)
+- [ GOOGLE SHEET ](https://docs.google.com/spreadsheets/d/1ld30lgkGKR4QcBSJdd0Nw00_p4ZnXud50teb8ChdZrc/edit?resourcekey=&gid=1339376891#gid=1339376891) - GOOGLE SHEET (TASK 3)
 - [Cyber Crime Portal](https://cybercrime.gov.in) — Report Cybercrime (Task 5)
 
 ---
 
 > *"Digital literacy is not just about using technology — it's about using it wisely, safely, and responsibly."*
+
